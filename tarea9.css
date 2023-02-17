@@ -1,0 +1,58 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#1162AC;
+    width:1000px;
+    text-align: center;
+    margin-top: 50px
+}
+th{
+    font-size:50px;
+}
+.formulario{
+    margin-left: auto;
+    margin-right: auto;
+    width:1000px;
+    background-color: #E3E6E9;
+}
+
+label{
+    color: #1162AC;
+}
+.padre{
+    
+    overflow: hidden;
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    background-color: #E3E6E9;
+}
+.contenedor{
+    float: left;
+    
+    width: 500px;
+    height: 300px;
+}
+#tabla{
+    
+    width:100%;
+    text-align:center;
+    margin-top: 40px;
+    color: #1162AC;
+    
+    
+}
+#imagen{
+    width: 300px;
+    height: 300px;
+    display:inline-block;
+}
+.imagen{
+    
+    float: left;
+}
